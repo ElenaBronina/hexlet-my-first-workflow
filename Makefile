@@ -1,2 +1,2 @@
 say-hello:
-	poetry run say-hello
+	make say-hello
