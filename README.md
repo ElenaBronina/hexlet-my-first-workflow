@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow
-[![Workflow](https://github.com/OWNER/REPOSITORY/actions/workflows/WORKFLOW-FILE/badge.svg)]
+[![Actions Status](https://github.com/ElenaBronina/python-project-50/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/ElenaBronina/python-project-50/actions)
